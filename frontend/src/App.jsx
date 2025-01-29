@@ -35,7 +35,7 @@ function App() {
     fetchUserDetails();
     /**user Details cart product */
     fetchUserAddToCart();
-  }, []);
+  }, [fetchUserDetails]);
   return (
     <>
       <Context.Provider
