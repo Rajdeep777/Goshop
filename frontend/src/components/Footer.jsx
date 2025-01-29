@@ -281,54 +281,54 @@ const Footer = () => {
                   <ul className="space-y-3">
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Vegetables & Fruits
+                      Airpodes
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Cold Drinks & Juices
+                      Camera
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Bakery & Biscuits
+                      Earphones
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Dry Fruits, Masala & Oil
+                      Mobile
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Paan Corner
+                      Mouse
                       </a>
                     </li>
                   </ul>
                   <ul className="space-y-3">
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Dairy & Breakfast
+                      Printers
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Instant & Frozen Food
+                      Processor
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Sweet Tooth
+                      Refrigerator
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Sauces & Spreads
+                      Speakers
                       </a>
                     </li>
                     <li>
                       <a href="#" className="text-[14px] text-gray-600">
-                        Organic & Premium
+                      Trimmers
                       </a>
                     </li>
                   </ul>
