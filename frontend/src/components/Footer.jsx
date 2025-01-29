@@ -59,7 +59,6 @@ const Footer = () => {
               ))}
             </ul>
           </div>
-
           <div className="w-[160px] -ml-8">
             <div className="mt-9">
               <ul className="space-y-2">
@@ -76,7 +75,6 @@ const Footer = () => {
               </ul>
             </div>
           </div>
-
           <div className="w-[160px] -ml-8">
             <div className="mt-9">
               <ul className="space-y-2">
@@ -338,7 +336,7 @@ const Footer = () => {
           </div>
         </div>
         {/* Download Section - Responsive */}
-        <div className="flex flex-col sm:flex-row items-center justify-between py-8 mt-8 border-t border-gray-200 space-y-4 sm:space-y-0">
+        <div className="flex flex-col sm:flex-row items-center justify-between py-8 mt-8 space-y-4 sm:space-y-0">
           <p className="text-[14px] text-gray-600 text-center sm:text-left">
             {" "}
             Goshop Commerce Private Limited, 2016-2025
